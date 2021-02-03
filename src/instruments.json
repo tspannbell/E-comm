@@ -1,0 +1,60 @@
+[
+    {
+        "id":1,
+        "name": "The X1 S Studio Bundle",
+        "description": "If you're recording in a non-acoustically-treated space (bedrooms, closets, etc.), a Reflexion Filter® helps keep your signal clean without the sound of your room around it",
+        "price": "$179.00",
+        "link": "https://images-na.ssl-images-amazon.com/images/I/515GOroVPGL._AC_SX425_.jpg"
+      },
+      
+      {
+        "id":2,
+        "name": "8 Piece Electronic Drum Kit",
+        "description": "Electric drum set that uses mesh head technology to provide a realistic and responsive organic drum kit experience. This electronic drum set features one eight-inch mesh snare drum and three mesh toms. The brain of these electronic drums has over 30 authentic drumset voices to suit all styles of music.",
+        "price": "$269.99",
+        "link": "https://media.guitarcenter.com/is/image/MMGS7/Nitro-Mesh-8-Piece-Electronic-Drum-Set/L21006000000000-00-1200x1200.jpg"
+      },
+      {
+        "id":3,
+        "name": " MicroLab",
+        "description": "Unlike other mini-key controllers, you’ll actually enjoy playing MicroLab. It features the same keybed as our award-winning KeyStep, it’s responsive, and velocity-sensitive.",
+        "price": "$89",
+        "link": "https://www.bhphotovideo.com/images/images2500x2500/arturia_230512_microlab_25_key_mini_keyboard_1502413.jpg"
+      },
+      {
+        "id":4,
+        "name": "Launchpad Mini",
+        "description": "Launchpad Mini is our most compact and portable 64 RGB pad MIDI grid controller. It gives you everything you need to start performing in Ableton Live - and it'll fit in your bag. Start making and performing tracks with Ableton Live wherever you are, using the huge array of sounds in the box to get you started",
+        "price": "$109.99",
+        "link": "https://images-na.ssl-images-amazon.com/images/I/71vwVV6Rk1L._AC_SX425_.jpg"
+      },
+      {
+        "id":5,
+        "name": "MIXTRACK PRO 3 DJ controller",
+        "description": "From Numark the world’s leading innovator of DJ equipment and technologies, comes the incredible MIXTRACK PRO 3 DJ controller, designed with the skilled, professionally-aspiring DJ in mind. It’s the latest addition to the Numark family of industry-leading DJ solutions.This controller offers a whole host of features and performance that sets it way above conventional DJ controllers, yet it offers great bang-for-the-buck and it’s a snap to take anywhere",
+        "price": "$229.99",
+        "link": "https://images-na.ssl-images-amazon.com/images/I/81ujDbJmg6L._AC_SX425_.jpg"
+      },
+      {
+        "id":6,
+        "name": "Polyend Tracker",
+        "description": "Polyend Tracker is slick, light and portable. It's also easy on the energy consumption so you can use it with any USB power source. Its sturdy and compact form factor makes it a great companion for music creation wherever and whenever you feel like it. No matter if you’re in your studio, on the run, or at the gig.",
+        "price": "$599",
+        "link": "https://static.bhphoto.com/images/images1000x1000/1584619582_1553287.jpg"
+      },
+      {
+        "id":7,
+        "name": "ROLI Studio",
+        "description": "Shape your sound through touch, craft your track in minutes, and create your personalized kit. Powerful and portable, BLOCKS Studio Editions are the most versatile MPE controllers for producers.",
+        "price": "$419",
+        "link": "https://images.static-thomann.de/pics/bdb/478769/14709156_800.jpg"
+      },
+      {
+        "id":8,
+        "name": "Suzuki QChord",
+        "description": "If you love music, now you can become a member of the band quickly and easily with the Suzuki QChord, an exciting digital audio instrument that strums like a guitar, plays melody like a keyboard, plays chords like a piano, and has over 100 MIDI voices and rhythms onboard. Anyone-musician or not-can sound like a pro at the touch of a button. You can't make a mistake! And like a video game, QChord has multiple skill levels. Learn to play in seconds, then add features as you get better. New QCards are always being added!",
+        "price": "$349.99",
+        "link": "https://images-na.ssl-images-amazon.com/images/I/7135YyZTpTL._AC_SL1500_.jpg"
+      }
+        
+]

@@ -15,7 +15,7 @@ class Hero extends React.Component {
                         We offer the best equipment for your home studio needs!
               </h2>
 
-                    
+
 
 
                 </div>
